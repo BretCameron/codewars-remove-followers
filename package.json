@@ -1,0 +1,13 @@
+{
+  "name": "codewars-remove-followers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Bret Cameron",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
